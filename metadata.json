@@ -1,0 +1,6 @@
+{
+  "name": "Mi Calculator - Xiaomi Calculator Pro",
+  "description": "Full-featured Xiaomi MIUI / HyperOS Calculator clone with Scientific, Computer Data (MB/GB/TB) & Unit Converters, Financial tools, structured history, and Telegram cloud backup & restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
